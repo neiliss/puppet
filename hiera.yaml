@@ -1,3 +1,5 @@
+# an example hiera.yaml to implement eyaml encryption
+# youtube: https://youtu.be/K_-n10mBxZY
 ---
 version: 5
 defaults:
