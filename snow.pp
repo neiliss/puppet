@@ -1,4 +1,5 @@
 # and example puppet file to use with https://forge.puppet.com/modules/puppetlabs/servicenow_reporting_integration
+# youtube: https://youtu.be/HME3nPD8MGg
 class profile::snow 
 (
 String $user,
